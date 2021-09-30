@@ -25,14 +25,13 @@ caption{
 /*END STARTER CODE*/
 
 body{
-  color: #000000;
-  font-size: 16px;
-  font-family: "Andika", sans-serif;
+  font-family: 'Andika', sans-serif;
   margin: 1.2em;
   background-size: cover ;
   background-position: center;
   background-image: url("../images/pigeon-background.JPEG");
   background-color: #DDDDDD;
+  background-repeat: no-repeat;
   /*Req 1*/
 }
 
@@ -52,7 +51,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B92751;
   text-decoration: underline wavy;
 
 }
@@ -67,7 +66,6 @@ a{
 
 
 td{
-  color: black;
   border-top: 2px solid black;
   padding: 10px;
   text-align: center;
@@ -96,7 +94,7 @@ table{
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
-  
+  border-spacing: 0;
 }
 
 /* I gave you the selector, but not the property-value pair. 
