@@ -26,7 +26,7 @@ caption{
 
 body{
   color: #000000;
-  font-size: px;
+  font-size: 16px;
   font-family: "Andika", sans-serif;
   margin: 1.2em;
   background-size: cover ;
@@ -37,7 +37,7 @@ body{
 }
 
 h1{
-  size: 32px;
+  font-size: 32px;
   color: #c12258;
   font-size: 2em;
   text-align: center;
@@ -51,7 +51,7 @@ p{
 }
 
 a{
-  size: 15px;
+  font-size: 15px;
   color: #B92751;
   text-decoration: underline wavy;
 
